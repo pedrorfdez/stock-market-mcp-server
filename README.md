@@ -6,7 +6,7 @@ An MCP server for stock market data processing and analysis.
 
 - Stock market data retrieval
 - Data processing and analysis
-- API endpoints for accessing market information
+- Uses API endpoints for accessing market information
 
 ## Setup
 
