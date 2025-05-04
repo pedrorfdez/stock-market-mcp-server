@@ -12,21 +12,21 @@ A Python-based server for stock market data processing and analysis.
 
 ```bash
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/stock-market-mcp-server.git
+git clone https://github.com/pedrorfdez/stock-market-mcp-server.git
 cd stock-market-mcp-server
 
 # Set up Python environment
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+uv venv
+source .venv/bin/activate  # On Windows: .venv\Scripts\activate
 
 # Install dependencies
-pip install -e .
+uv pip install -e .
 ```
 
 ## Usage
 
 ```bash
-python main.py
+uv run stock_market.py
 ```
 
 ## License
