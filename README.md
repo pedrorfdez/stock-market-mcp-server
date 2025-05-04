@@ -1,6 +1,6 @@
 # Stock Market MCP Server
 
-A Python-based server for stock market data processing and analysis.
+An MCP server for stock market data processing and analysis.
 
 ## Features
 
