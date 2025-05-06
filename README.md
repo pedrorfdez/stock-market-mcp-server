@@ -26,7 +26,7 @@ uv pip install -e .
 ## Usage
 
 ```bash
-uv run stock_market.py
+uv run server.py
 ```
 
 ## License
