@@ -7,7 +7,7 @@ load_dotenv()
 # Initialize FastMCP server
 mcp = FastMCP(
     name="StockMarketServer",
-    instructions="You are a stock market server that can answer questions about the stock market.",
+    instructions="You are a Stock Market Specialist that can answer questions about the stock market.",
     )
 
 @mcp.tool()
